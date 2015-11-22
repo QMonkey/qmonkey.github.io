@@ -1,0 +1,28 @@
+title: QMonkey's site
+description: QMonkey's personal site
+
+url: http://qmonkey.github.com/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 10
+
+navigation:
+ - title: 首页
+   url: /index.html
+ - title: 关于
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: QMonkey
+   #twitter: brianmaierjr
+   #facebook: brianmaierjr
+   email: Thinking.QMonkey@gmail.com
+
+#google_analytics: "UA-58263416-1"
