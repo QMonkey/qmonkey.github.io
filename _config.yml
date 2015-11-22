@@ -12,9 +12,9 @@ gems: [jekyll-paginate]
 paginate: 10
 
 navigation:
- - title: 首页
+ - title: Home
    url: /index.html
- - title: 关于
+ - title: About
    url: /about
  - title: Contact
    url: /contact
