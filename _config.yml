@@ -72,7 +72,7 @@ disqus: "qmonkeygithubio"
 # Output options (more information on Jekyll's site)
 timezone: "Asia/Shanghai"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year-:month-:day-:title
 gems: [jekyll-paginate]
 paginate: 10
