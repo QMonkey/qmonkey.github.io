@@ -10,6 +10,10 @@ You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and
 
 ## Here is a secondary heading
 
+How about a yummy crepe?
+
+![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
+
 Here's a code chunk:
 
 ~~~
@@ -19,9 +23,9 @@ print(x)
 
 And here is some code with syntax highlighting
 
-{% highlight javascript linenos %}
+```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-{% endhighlight %}
+```

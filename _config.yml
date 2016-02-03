@@ -73,7 +73,7 @@ disqus: "qmonkeygithubio"
 timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title
+permalink: /:year-:month-:day-:title/
 gems: [jekyll-paginate]
 paginate: 10
 
